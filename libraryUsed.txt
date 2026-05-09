@@ -1,0 +1,6 @@
+1. ZOD:-
+2. npm install @react-email/components
+3. npm i resend 
+4. npm i react-email   
+5. npm i bcryptjs
+6. 
